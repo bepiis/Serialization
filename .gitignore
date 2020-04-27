@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+/compiler.xml
+/jarRepositories.xml
+/misc.xml
+/../target/classes/net/il0c4l/testserialization/Entry.class
+/../target/classes/net/il0c4l/testserialization/LoginListener.class
+/../target/classes/net/il0c4l/testserialization/Main.class
+/../target/classes/net/il0c4l/testserialization/SubEntry.class
+/../target/classes/config.yml
+/../target/classes/plugin.yml
+/../target/maven-archiver/pom.properties
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/../target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+/../target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/../target/TestSerialization-1.0-SNAPSHOT.jar
+/../TestSerialization.iml
+/.idea/
+/TestSerialization.iml/
